@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946985902982",
+    "project_id": "apothogy-19841",
+    "storage_bucket": "apothogy-19841.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946985902982:android:450f7f4d1c34a33df18207",
+        "android_client_info": {
+          "package_name": "com.example.apothogy_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946985902982-t54sta70ho0svbk93ns4r8rq43f6cbb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGjHlMccS6AobbCOcApuLSj1fSR0rr9zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946985902982-t54sta70ho0svbk93ns4r8rq43f6cbb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
